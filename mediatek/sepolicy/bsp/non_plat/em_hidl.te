@@ -1,0 +1,9 @@
+# ==============================================
+# Policy File of /vendor/bin/em_hidi Executable File
+# ==============================================
+
+# Date :  2018/07/10
+# Operation : EM DEBUG
+# Purpose: EM set Moms property
+set_prop(em_hidl, mtk_moms_prop)
+
